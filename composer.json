@@ -1,5 +1,5 @@
 {
-    "name": "drift/dbal",
+    "name": "mariopenterman/reactphp-dbal",
     "description": "DBAL for ReactPHP on top of Doctrine",
     "type": "library",
     "license": "MIT",
